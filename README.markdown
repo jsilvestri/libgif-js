@@ -14,7 +14,7 @@ Please note: this example must be loaded via a webserver, not directly from disk
 
 Clone this project, then run `ruby -run -e httpd . -p 8080` in the home directory. Navigate to http://localhost:8080/example.html
 
-![Example](libgif-js/example_gifs/3_preview.png)
+![Screenshot of this example](https://github.com/jsilvestri/libgif-js/blob/master/example_gifs/3_preview.png?raw=true)
 
 # Technical Details
 
